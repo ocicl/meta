@@ -1,0 +1,10 @@
+* meta
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/meta.git   |
+| commit  |   |
+| systems | meta |
+|---------+-------------------------------------------|
+
