@@ -1,10 +1,9 @@
 * meta
 
+META syntax to easily write parsers, as per Henry G. Baker's Prag-Parse article
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/frideau/meta.git   |
-| commit  |   |
-| systems | meta |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/meta.git |
+| commit  | 74faea66                                            |
+| systems | meta                                                |
+|---------+-----------------------------------------------------|
